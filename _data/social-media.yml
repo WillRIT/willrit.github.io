@@ -1,0 +1,102 @@
+# Get Icons  from : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
+behance:
+  url   : https://www.behance.net/
+  icon  : fa-brands fa-behance
+  color : 1769ff
+
+bluesky:
+  url   : https://www.bsky.app/
+  icon  : fa-brands fa-bluesky
+  color : 00afe1
+
+dribbble:
+  url   : https://dribbble.com/
+  icon  : fa-brands fa-dribbble
+  color : 444444
+
+email:
+  url   : "mailto:"
+  icon  : fas fa-envelope
+  color : db4437
+
+facebook:
+  url   : https://www.facebook.com/
+  icon  : fa-brands fa-facebook
+  color : 3b5998
+
+github:
+  url   : https://www.github.com/
+  icon  : fa-brands fa-github
+  color : 333333
+
+gitlab:
+  url   : https://www.gitlab.com/
+  icon  : fa-brands fa-gitlab
+  color : fca326
+
+instagram:
+  url   : https://www.instagram.com/
+  icon  : fa-brands fa-instagram
+  color : 405de6
+  
+kaggle:
+  url   : https://www.kaggle.com/
+  icon  : fa-brands fa-kaggle
+  color : 20beff
+
+linkedin:
+  url   : https://www.linkedin.com/in/
+  icon  : fa-brands fa-linkedin-in
+  color : 007bb5
+
+medium:
+  url   : https://medium.com/@
+  icon  : fa-brands fa-medium
+  color : 00ab6c
+
+soundcloud:
+  url   : https://www.soundcloud.com/
+  icon  : fa-brands fa-soundcloud
+  color : ff8800
+
+spotify:
+  url   : https://open.spotify.com/user/
+  icon  : fa-brands fa-spotify
+  color : 1db954
+
+stackoverflow:
+  url   : https://stackoverflow.com/u/
+  icon  : fa-brands fa-stack-overflow
+  color : f48024
+
+tumblr:
+  url   : https://
+  icon  : fa-brands fa-tumblr
+  color : 35465c
+
+twitch:
+  url   : https://www.twitch.tv/
+  icon  : fa-brands fa-twitch
+  color : 6441a5
+
+twitter:
+  url   : https://www.twitter.com/
+  icon  : fa-brands fa-twitter
+  color : 1da1f2
+
+vimeo:
+  url   : https://www.vimeo.com/
+  icon  : fa-brands fa-vimeo-v
+  color : 162221
+
+youtube:
+  url   : https://www.youtube.com/
+  icon  : fa-brands fa-youtube
+  color : ff0000
+
+keybase:
+  url   : https://www.keybase.io/
+  icon  : fa-brands fa-keybase
+  color : 66ccff
