@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "~> 4.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
-  gem "github-pages"
+  gem "jemoji"
 end
 
 gem "kramdown-parser-gfm"
