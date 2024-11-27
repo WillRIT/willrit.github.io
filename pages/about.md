@@ -8,7 +8,8 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am currently a Sophmore in RIT's Game Design and Development Program. I have a passion for storytelling, creativity, and games as an artistic medium.
+I've self taught myself art for around 8 years, even vending at conventions across the country. Below you will see a snippet of my skills and expereince. For a full CV, please click *here*
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

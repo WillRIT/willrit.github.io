@@ -1,5 +1,5 @@
 ---
-name: Empty Project
+name: Five Minute Blacksmith
 tools: [Node JS, JavaScript, HTML, CSS]
 image:
 description: This project has no image or showcase page, but it is still a beautiful project inside out!
