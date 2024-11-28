@@ -1,11 +1,11 @@
-@use "variables";";
+@use "variables";
 
 .search-box {
   box-shadow: none !important;
 }
 
 .post.card {
-  border-radius: $rounded-borders;
+  border-radius: variables.$rounded-borders;
   text-decoration: none !important;
   padding: 15px;
   height: 100%;
@@ -22,7 +22,7 @@
   margin-top: -6px;
 
   .tag:hover {
-    background-color: $primary;
+    background-color: variables.$primary;
     color: white !important;
   }
 }

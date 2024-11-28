@@ -1,12 +1,12 @@
 @use "variables";
 
 .project.card {
-  border-radius: $rounded-borders;
+  border-radius: variables.$rounded-borders;
   text-decoration: none !important;
   margin: 10px auto;
 
   .card-img-top {
-    border-radius: $rounded-borders $rounded-borders 0 0;
+    border-radius: variables.$rounded-borders variables.$rounded-borders 0 0;
   }
 
   transition: transform 400ms;

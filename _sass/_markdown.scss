@@ -7,7 +7,7 @@
   }
 
   hr {
-    background: $secondary;
+    background: variables.$secondary;
   }
 
   img:not(.emoji) {
@@ -34,7 +34,7 @@
     text-decoration: none;
 
     &:hover {
-      color: $primary;
+      color: variables.$primary;
     }
 
     &::after {
@@ -43,7 +43,7 @@
       height: 0.15em;
       margin-top: -0.15em;
       width: 0;
-      background: $primary;
+      background: variables.$primary;
       transition: width 0.35s;
     }
 
@@ -53,9 +53,9 @@
   }
 
   pre {
-    background: $light;
+    background: variables.$light;
     border: 1px solid #ddd;
-    color: $dark;
+    color: variables.$dark;
     font-family: monospace;
     font-size: 14px;
     line-height: 20px;
@@ -69,16 +69,16 @@
   }
 
   code.highlighter-rouge {
-    background-color: $light;
-    color: $dark;
+    background-color: variables.$light;
+    color: variables.$dark;
     border-radius: 3px;
     margin: 0;
     padding: 0.2em 0.65em;
   }
 
   blockquote {
-    border-left: 0.25em solid $primary;
-    color: $secondary;
+    border-left: 0.25em solid variables.$primary;
+    color: variables.$secondary;
     padding: 0 1em;
   }
 
@@ -108,7 +108,7 @@
       padding-bottom: 12px;
       font-weight: 500;
       text-align: left;
-      background-color: $primary;
+      background-color: variables.$primary;
       color: white;
     }
 
