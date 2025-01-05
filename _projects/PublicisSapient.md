@@ -6,15 +6,15 @@ description: A project done for Publicis Sapient during the Global Career Accele
 external_url: 
 ---
 
-Link to Repl: <a href="https://replit.com/@wsf8177/Will-Frank-Portfolio-Project-PS-Mariott-Homes-and-Villas" >Click Me</a>
+[Demo Project](/Hilton)
 
 ## Overview
 
-This project was done during the Global Career Accelerator 2024 Program: Web Development Track. Over the course of the two month program, we were taught the principles of Web Design, HTML/CSS, and Javascript. This culiminated in a special project developed by the firm Publicis Sapient for Hilton hotels. They wanted us to redesign their current website in order to help more people travel to places without. 
+This project was done during the Global Career Accelerator 2024 Program: Web Development Track. Over the course of the two month program, we were taught the principles of Web Design, HTML/CSS, and Javascript. This culiminated in a special project developed by the firm Publicis Sapient for Hilton hotels. They wanted us to redesign their current website to simplfy the user experience. 
 
 ## User Research
 
-In order to understand how to best build the project to the user's needs, Hilton gathered hundreds of surveys and interviews from travelers and hotel-users for us to analyze. These were given in the form of videos and documents. From this, I was able to put together that it seemed a big pain point for current travelers was not knowing where exactly they wanted to go, more-so just knowing a 'vibe'. There were also pain points regarding the information that was on screen. For more details on the research, feel free to click on the Repl.it Link and clicking on the MarketUsersPrototype.MD
+In order to understand how to best build the project to the user's needs, Hilton gathered hundreds of surveys and interviews from travelers and hotel-users for us to analyze. These were given in the form of videos and documents. From this, I was able to put together that it seemed a big pain point for current travelers was not knowing where exactly they wanted to go, more-so just knowing a 'vibe'. There were also pain points regarding the information that was on screen. For more details on the research, feel free to click on the Repl.it Link and clicking right [here](/Hilton/marketUsersPrototype.md)
 
 ## Prototype Deliverable
 
