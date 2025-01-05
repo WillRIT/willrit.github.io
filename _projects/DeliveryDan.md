@@ -1,5 +1,5 @@
 ---
-name: Coding Like Vincent Van Gogh
+name: Delivery Dan and The Wizard Man
 tools: [Support, Author, VVG]
 image:
 description: Show some support by following me!
