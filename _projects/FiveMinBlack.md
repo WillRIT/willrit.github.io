@@ -1,7 +1,7 @@
 ---
 name: Five Minute Blacksmith
 tools: [Godot, GameJam, GDScript, Game Design]
-image: 
+image: ../images/5MinTitle.png
 description: A short game made solo for the HoloJam 4 Game Jam
 ---
 
