@@ -5,26 +5,32 @@ image: ../images/Hilton1.png
 description: A project done for Publicis Sapient during the Global Career Accelerator 2024 Program.    
 external_url: 
 ---
+# Hilton Project
 
-[Demo Project](/Hilton)
+<p class="text-center">
+{% include elements/button.html link="../Hilton/" text="Check out the Project!" %}
+</p>
 
 ## Overview
 
-This project was done during the Global Career Accelerator 2024 Program: Web Development Track. Over the course of the two month program, we were taught the principles of Web Design, HTML/CSS, and Javascript. This culiminated in a special project developed by the firm Publicis Sapient for Hilton hotels. They wanted us to redesign their current website to simplfy the user experience. 
+This project part of the  Global Career Accelerator 2024 Program: Web Development Track. Over the course of the two month program, we learned the principles of Web Design, HTML/CSS, and Javascript. This culminated in a special project developed by the firm Publicis Sapient for Hilton hotels. They wanted us to redesign their current website to simplify the user experience. 
 
 ## User Research
 
-In order to understand how to best build the project to the user's needs, Hilton gathered hundreds of surveys and interviews from travelers and hotel-users for us to analyze. These were given in the form of videos and documents. From this, I was able to put together that it seemed a big pain point for current travelers was not knowing where exactly they wanted to go, more-so just knowing a 'vibe'. There were also pain points regarding the information that was on screen. For more details on the research, feel free to click on the Repl.it Link and clicking right [here](/Hilton/marketUsersPrototype.md)
+Hilton gathered hundreds of surveys and interviews from travelers and hotel customers for us to analyze. These were given in the form of videos and documents. An issue that came up a lot was people not knowing where they wanted to go. The prototype would need to address this complaint.
 
 ## Prototype Deliverable
 
-Our prototype features an immediate question, prompting the users to think about the location of their trip rather than immediately bombarding the user with information. It then creates Div Elements based off an array of locations with the attribute chosen from earlier and presents them to the user. If you click any of these elements, it also will then take you to an interactive map programmed into the website that tells you where the location you picked was.
+The prototype features an immediate question, prompting the users to think about the location of their trip rather than immediately bombarding the user with information. It then presents the customer a list of locations with the chosen attributes. If you click any of these elements, it also will then take you to an interactive map highlighting that property.
 
 ## What Did I Learn From This Project?
 
-This was my first big Web Design project. I got to do user research, write up needs and pain points, and then execute a design that properly addressed these points. There was a fair amount of code provided by the program runners, but the main functions (i.e making the div elements, sorting by selected location) were all me. This was an extremely fun project and I even got a certificate of completetion for it which is viewable on my LinkedIn.
-
+This was my first big Web Design project. I got to review user research, write up needs and pain points, and then execute a design that solved the users’ problems. There was a fair amount of code provided by the program runners, but I wrote the  main functions (e.g., making the div elements, sorting by selected location) were all me. 
 
 ## Images
 <img src="../images/Hilton1.png">
 <img src="../images/Hilton2.png">
+
+<p class="text-center">
+{% include elements/button.html link="../Hilton/" text="Check out the Project!" %}
+</p>
