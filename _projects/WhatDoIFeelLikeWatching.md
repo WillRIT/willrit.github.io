@@ -1,6 +1,6 @@
 ---
 name: What Do I Feel Like Watching?
-tools: [HTML/CSS, Javascript, Web Application]
+tools: [HTML/CSS, Javascript, Web Application, UI/UX]
 image: ../images/Watch.png
 description: A Web Application utilizing the Jikan API to allow users to search for Anime and Manga 
 external_url:

@@ -1,6 +1,6 @@
 ---
 name: Hilton Project
-tools: [Product Design, HTML/CSS, Javascript]
+tools: [Product Design, HTML/CSS, Javascript, UI/UX]
 image: ../images/Hilton1.png
 description: A project done for Publicis Sapient during the Global Career Accelerator 2024 Program.    
 external_url: 

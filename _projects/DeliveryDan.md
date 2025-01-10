@@ -1,6 +1,6 @@
 ---
 name: Delivery Dan and The Wizard Man
-tools: [G#, Godot, Game Jam, Project Management]
+tools: [G#, Godot, Game Jam, Project Management, UI/UX]
 image: ../images/DanTitle.png
 description: A Game developed for the 15th Pirate Jam with a team around the country
 external_url: 
