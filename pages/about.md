@@ -27,7 +27,7 @@ Rochester Institute of Technology	Rochester, NY
 **Relevant Coursework:** Data Structures and Algorithms, Web Technology for Games, Interactive Media Design, 2D/3D Animation and Asset Production, Real Time Simulations for Games, Experience Design 
 
 ## SKILLS	
-  **Technical Skills**: Visual scripting, .NET SDKs, Godot, Unity, Bootstrap, Unreal, Sass, Jekyll  
+  **Technical Skills**: Visual scripting, .NET SDKs, Godot, Unity, Bootstrap, Unreal, Sass, Jekyll, Figma, Adobe Suite 
   **Programming Languages:**  C#, JavaScript, HTML/CSS, Python, Ruby  
   **Operating Systems:** MacOS, Windows
 
