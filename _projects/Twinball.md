@@ -50,7 +50,7 @@ BUMPERS: when the ball hits this, they ricochet off.
 ROLLOVERS: when the balls hits this, they are 'enabled' and the ball passes over it easily.
 GRABBERS: when the balls hits this, the ball is frozen before being launch in a certain direction.
 LOCKS: when the ball hits this, the ball is taken off the board entirely.
-ENVIROMENT: A catch-all type for different types of hazards and unique special elements to a level that don't necessarily involve the ball. .
+ENVIRONMENT: A catch-all type for different types of hazards and unique special elements to a level that don't necessarily involve the ball. .
 
 ## Images
 
