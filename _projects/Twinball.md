@@ -11,19 +11,6 @@ description: An action packed Anime inspired Boss Rush game where you play Pinba
 
 Currently in development, Twinball is the first game I've made solely for myself. This isn't for class or a game jam, I am developing the game out of my own passion. It is a single player Pinball Boss Rush game. I am developing the game with two close friends.
 
-
-## Art Design
-Working with the same art lead from Delivery Dan, I drafted up concept sketches and character designs that she would then ideate on and send back to me.
-
-<img src="../images/InitialSketch.png">
-Initial Design for the Two Protagonists
-
-<img src="../images/TwinballChess.png">
-Art Lead, Maya Teng's, second passthrough
-
-<img src="../images/PinballTitle.png">
-Pre-Alpha concept art, done by me, based off Maya's designs
-
 ## The Design Pillars of Twinball
 
 Twinball presented itself with an interesting challenge when it came to designing it's core mechanics. Pinball is a traditionally vertical game, and video games are a traditionally horizontal medium. Since we were designing it as a boss rush game, that also meant we had two different types of games to pull ideas from. 
@@ -47,10 +34,27 @@ The player has different options for balls to use and ways to use them. The type
 We then based our new mechanics and refined our existing ones to fit this. Every object on a table would now be descended from one of four types, based off what happens when the ball interacts with it.
 
 BUMPERS: when the ball hits this, they ricochet off.
+
 ROLLOVERS: when the balls hits this, they are 'enabled' and the ball passes over it easily.
+
 GRABBERS: when the balls hits this, the ball is frozen before being launch in a certain direction.
+
 LOCKS: when the ball hits this, the ball is taken off the board entirely.
+
 ENVIRONMENT: A catch-all type for different types of hazards and unique special elements to a level that don't necessarily involve the ball. .
+
+## Art Design
+Working with the same art lead from Delivery Dan, I drafted up concept sketches and character designs that she would then ideate on and send back to me.
+
+<img src="../images/InitialSketch.png">
+Initial Design for the Two Protagonists
+
+<img src="../images/TwinballChess.png">
+Art Lead, Maya Teng's, second passthrough
+
+<img src="../images/PinballTitle.png">
+Pre-Alpha concept art, done by me, based off Maya's designs
+
 
 ## Images
 
