@@ -49,11 +49,8 @@ What does “small” mean for functions? No more than 4 lines of code. Yep, you
 
 Let’s walk through an example together. Node has an npm module called “build-url” which is used for doing exactly what it’s name suggests: it builds URLs. You can find the link to the source file we’re going to look at here. Below is the relevant code.
 
-{% gist 53b03db644353af05279f8fe3eea1a09 %}
 
 Notice that this function is 35 lines long. It’s not too hard to understand but it could be significantly easier to reason about if we apply our “small” principle to factor out helper functions. Here’s the updated and improved version.
-
-{% gist 167dc8833b9058eafc5cdebc3a2609a9 %}
 
 You’ll notice that while we didn’t adhere strictly to the 4 lines per function rule, we did create several functions that are relatively “small”. Each one does exactly one task that’s easy to understand based on it’s name. You could even unit test each of these smaller functions independently if you wanted, as opposed to only being able to test the one large buildUrl function. You may also notice that this methodology produces slightly more code, 55 lines instead of 35. That’s perfectly acceptable because those 55 lines are a lot more maintainable and easier to read the the 35 lines.
 
@@ -80,7 +77,6 @@ Let’s say we’re building a system that needs to a certain type of report and
 
 Side effects are truly evil and make it extremely difficult to create code without bugs. Check out the example below. Can you spot the side effect?
 
-{% gist 63706c9490634bc48f768051256dbdf1 %}
 
 The function as named is designed to look up a user by email/password combination, a standard operation for any web application. However, it also has a hidden side effect that you do not know about as the function consumer without reading the implementation code: it logs the user in, which creates a login token, adds it to the database, and sends a cookie back to our user with the value so they’re subsequently “logged in”.
 

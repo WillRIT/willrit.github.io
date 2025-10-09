@@ -98,7 +98,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: false     
+      layout: "post"                              # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###
