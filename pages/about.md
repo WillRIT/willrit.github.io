@@ -7,14 +7,14 @@ weight: 4
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hello! I am **{{ site.author.name }}** :wave:,<br>
 I am currently a Junior in RIT's Game Design and Development Program. I have a passion for storytelling, creativity, and games as an artistic medium.
 I am a self taught digital illustrator, selling works at conventions across the country.
 
 [wsf8177@rit.edu](mailto:wsf8177@rit.edu) • [Resume](../2025.01.08.Resume.WSF.pdf) • [LinkedIn](https://www.linkedin.com/in/will-shihao-frank) • +1 (650) 274-6597 
 
 ## OBJECTIVE 
-Seeking a Game/Software Development internship using skills in C#, GDScript, and Javascript. Available summer 2025.
+Seeking a Game/Software Development internship using skills in C#, GDScript, and C++. Available summer 2026.
 
 ## EDUCATION	
 Rochester Institute of Technology	Rochester, NY
@@ -22,7 +22,7 @@ Rochester Institute of Technology	Rochester, NY
 
 * Recipient of the Presidential Scholarship  
 * Awarded Dean’s List Fall 2023   
-* GPA: 3.3
+* GPA: 3.1
 
 **Relevant Coursework:** Data Structures and Algorithms, Web Technology for Games, Interactive Media Design, 2D/3D Animation and Asset Production, Real Time Simulations for Games, Experience Design 
 
