@@ -8,7 +8,7 @@ weight: 4
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am currently a Sophomore in RIT's Game Design and Development Program. I have a passion for storytelling, creativity, and games as an artistic medium.
+I am currently a Junior in RIT's Game Design and Development Program. I have a passion for storytelling, creativity, and games as an artistic medium.
 I am a self taught digital illustrator, selling works at conventions across the country.
 
 [wsf8177@rit.edu](mailto:wsf8177@rit.edu) • [Resume](../2025.01.08.Resume.WSF.pdf) • [LinkedIn](https://www.linkedin.com/in/will-shihao-frank) • +1 (650) 274-6597 
@@ -27,11 +27,17 @@ Rochester Institute of Technology	Rochester, NY
 **Relevant Coursework:** Data Structures and Algorithms, Web Technology for Games, Interactive Media Design, 2D/3D Animation and Asset Production, Real Time Simulations for Games, Experience Design 
 
 ## SKILLS	
-  **Technical Skills**: Visual scripting, .NET SDKs, Godot, Unity, Bootstrap, Unreal, Sass, Jekyll, Figma, Adobe Suite 
+  **Technical Skills**: Visual scripting, .NET SDKs, Godot, Unity, Bootstrap, Unreal, Sass, Jekyll, Figma, Adobe Suite, OpenGL
   **Programming Languages:**  C#, JavaScript, HTML/CSS, Python, Ruby  
   **Operating Systems:** MacOS, Windows
 
 ## EXPERIENCE	
+
+#### Magic Maker Program - Summer 2025
+* With [[Twinball]](https://willrit.github.io/projects/twinball), our team was one of 5 teams selected for participation in the MAGIC Spell Studios - Magic Maker Program, Summer 2025 Cohort, at the Prototype Tier.
+* Worked with a team and mentors to refine gameplay mechanics, improve AI systems, and enhance overall design, fostering a strong sense of teamwork and innovation, building off early prototypes into 2 playable levels over the course of the cohort.
+* Coordinated fully remote team, resolving disputes between members and presenting regular updates about progress to MAGIC Spell Studios stakeholders
+
   
 #### Global Career Accelerator - Publicis Sapient Project 	
 6/24-7/24
