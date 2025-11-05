@@ -1,5 +1,5 @@
 ---
-name: Twinball
+name: ATwinball
 tools: [Godot, C#, Game Design, Project Management, UI/UX]
 image: ../images/TwinballTitle.png
 description: An action packed Anime inspired Boss Rush game where you play Pinball, In Development
