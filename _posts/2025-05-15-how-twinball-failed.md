@@ -1,5 +1,5 @@
---- (And how we made it succeed)
-title: How My First Real Game Failed
+---
+title: How My First Real Game Failed (And how we made it succeed)
 tags: [Game Dev, Twinball, Game Design]
 style: fill
 color: warning
