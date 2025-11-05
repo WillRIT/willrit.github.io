@@ -1,10 +1,9 @@
 ---
-title: How My First Real Game Failed (And how we made it succeed)
+title: How My First Real Game Failed, And how we made it succeed
 tags: [Game Dev, Twinball, Game Design]
 style: fill
 color: warning
 description: OR how Twinball kicked ass until it didn't.
-external_url:
 ---
 # How my first real Game failed
 
