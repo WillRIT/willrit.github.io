@@ -1,5 +1,5 @@
 ---
-name: Twinball
+title: Twinball
 tools: [Godot, C#, Game Design, Project Management, UI/UX]
 image: ../images/TwinballTitle.png
 description: An action packed Anime inspired Boss Rush game where you play Pinball, In Development
@@ -91,7 +91,7 @@ There's also room in this new UI for sprites of the Twins and who they're fighti
 
 After our first playtest, we got a lot of feedback. A main issue was still that it was unclear what things were meant to be in the UI. In our attempt to limit the palette to make contrast better, we neglected to make components stand out from each other, resulting in loss of clarity. 
 
-Working with Carrie Stone, another artist on the team, we decided to go for more of a Diagetic UI, making it seem as though the UI were objects the twins themselves 
+Working with Carrie Stone, another artist on the team, we decided to go for more of a Diagetic UI, making it seem as though the UI were objects the twins themselves scrapped together to make something 
 
 ## Second Pass
 
