@@ -1,7 +1,7 @@
 ---
 name: Twinball
 tools: [Godot, C#, Game Design, Project Management, UI/UX]
-image: ../images/PinballTitle.png
+image: ../images/TwinballTitle.png
 description: An action packed Anime inspired Boss Rush game where you play Pinball, In Development
 ---
 # Twinball
@@ -9,7 +9,7 @@ description: An action packed Anime inspired Boss Rush game where you play Pinba
 
 ## Overview
 
-Currently in development, Twinball is the first game I've made solely for myself. This isn't for class or a game jam, I am developing the game out of my own passion. It is a single player Pinball Boss Rush game. I am developing the game with two close friends.
+Currently in development, Twinball is the first game I've made solely for myself. This isn't for class or a game jam, I am developing the game out of my own passion. It is a single player Pinball Boss Rush game. I am developing the game under my game studio, Studio Collider.
 
 ## The Design Pillars of Twinball
 
@@ -53,10 +53,48 @@ Initial Design for the Two Protagonists
 Art Lead, Maya Teng's, second passthrough
 
 <img src="../images/PinballTitle.png">
-Pre-Alpha concept art, done by me, based off Maya's designs
+Pre-Alpha concept art, done by me, based off Maya's designs, November 2025
 
 
-## Images
+## Acceptance into Magic Maker 2025
+
+After much effort and a rigorous application process, Twinball was accepted into RIT's Magic Maker Program, an incubator program for RIT Students where we'd get real experience working with stakeholders and producers on our project. We got a new artist, Elizabeth (Liz) Doherty, who helped us establish more of that 'Studio Trigger' feel we were going for for the game, and got a composer to help us make music for the game as well.
+
+<img src="../images/TwinsLiz.png">
+Lead Character Artist, Liz Doherty, second passthrough of Characters after acceptance into Magic, May 2025
+
+
+## Redesigning the UI
+
+My other main job aside from being Project Lead was being the UI/UX Lead. My biggest goal over the course of the summer was making our UI easy to read and understandable by anyone playing our game. This is what we started the summer with:
+
+
+Our big pain points were
+- The colors
+- lack of clarity
+- lack of onboarding
+
+while some of these could be solved with a proper tutorial, a redesign of the UI could solve a bulk of these issues. I decided to ditch the old colors we have in favor of a Limited Color Palette. This would help the contrast issues as well. So it was time to get to work
+
+## First Pass
+
+*Image here*
+After a week or two of back and forth I had come up with this initial UI. Ditching the colors for a much more striking Yellow and Black, with white as a highlight.
+
+This new UI also accounted for the new Mechanic, the Breakpoint, a special move the Boss can use after a certain amount of time. In this version it's a meter that slowly fills up over time before reaching full capacity and going back to zero.
+
+*Zoom into image here*
+
+There's also room in this new UI for sprites of the Twins and who they're fighting. I wanted the player to understand that at it's core, Twinball Levels are fights, it's combat. I didn't want to add too many new colors and throw off the vibe of the UI, so they were drawn using only one color and Black and White because of this.
+
+*Images here*
+
+After our first playtest, we got a lot of feedback. A main issue was still that it was unclear what things were meant to be in the UI. In our attempt to limit the palette to make contrast better, we neglected to make components stand out from each other, resulting in loss of clarity. 
+
+Working with Carrie Stone, another artist on the team, we decided to go for more of a Diagetic UI, making it seem as though the UI were objects the twins themselves 
+
+## Second Pass
+
 
 
 

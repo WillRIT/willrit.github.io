@@ -14,7 +14,7 @@ I am a self taught digital illustrator, selling works at conventions across the 
 [wsf8177@rit.edu](mailto:wsf8177@rit.edu) • [Resume](../2025.01.08.Resume.WSF.pdf) • [LinkedIn](https://www.linkedin.com/in/will-shihao-frank) • +1 (650) 274-6597 
 
 ## OBJECTIVE 
-Seeking a Game/Software Development internship using skills in C#, GDScript, and C++. Available summer 2026.
+Seeking a Game/Software Development internship using skills in C#, C++, Game Design, and Project Management. Available summer 2026.
 
 ## EDUCATION	
 Rochester Institute of Technology	Rochester, NY
