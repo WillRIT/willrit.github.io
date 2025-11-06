@@ -5,7 +5,7 @@ style: border
 color: light
 description: Improving my ability to visualize anything in order to grow
 ---
-
+(Images to be added soon!)
 ## The Foundation
 
 I've been drawing my whole life. It's always been something I genuinely enjoyed—doodling in the margins of notebooks, sketching during meetings, creating whatever came to mind. But there was always a frustrating gap between what I could see and what I could create: I was great at copying or improving existing work, but drawing from my imagination? That was a different beast entirely.

@@ -5,7 +5,7 @@ style: border
 color: success
 description: Understanding the intersection between Psychology, Product Design, and Pinball
 ---
-
+(Images to be added soon!)
 ## Why Level Design Matters
 
 Level design is arguably *the* most important aspect of game design. It's the invisible pathway that guides players through your world—directing where they go, what they encounter, and how they progress. Great level design doesn't feel like design at all; it feels natural and intuitive. Players move from beat to beat without thinking about it, guided by the world itself.
