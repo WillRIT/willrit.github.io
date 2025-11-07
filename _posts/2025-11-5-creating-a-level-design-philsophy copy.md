@@ -1,6 +1,6 @@
 ---
-title: Creating a Level Design Philosophy
-tags: [Game Dev, Twinball, Game Design]
+title: Understanding Flow in Level Design
+tags: [Game Dev, Twinball, Game Design, In Progress]
 style: border
 color: success
 description: Understanding the intersection between Psychology, Product Design, and Pinball
@@ -11,9 +11,6 @@ description: Understanding the intersection between Psychology, Product Design, 
 Level design is arguably *the* most important aspect of game design. It's the invisible pathway that guides players through your world—directing where they go, what they encounter, and how they progress. Great level design doesn't feel like design at all; it feels natural and intuitive. Players move from beat to beat without thinking about it, guided by the world itself.
 
 In a pinball game especially, level design takes on a unique role. The playfield *is* your level. Every ramp, bumper, and orbit isn't just placed randomly—it's choreographed to create an experience. And that experience is built on one fundamental principle: **Flow**.
-
-
-
 
 
 ## What is Flow?

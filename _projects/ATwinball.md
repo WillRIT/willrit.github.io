@@ -50,7 +50,7 @@ Working with the same art lead from Delivery Dan, I drafted up concept sketches 
 Initial Design for the Two Protagonists
 
 <img src="../images/TwinballChess.png">
-Art Lead, Maya Teng's, second passthrough
+Artist, Maya Teng's, second passthrough
 
 <img src="../images/PinballTitle.png">
 Pre-Alpha concept art, done by me, based off Maya's designs, November 2025
