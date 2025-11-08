@@ -10,7 +10,7 @@ description: A short game made solo for the HoloJam 4 Game Jam
 
 ## Overview
 
-This game was developed solo for the [HoloJam 4 Game Jam]() in MENTION WHEN. The game jam was themed around Hololive, the VTuber Agency. As such, the game had to use that IP as a base and then a theme that's specific to each jam. The theme was "Outcome". 
+This game was developed solo for the [HoloJam 4 Game Jam]() in 2024. The game jam was themed around Hololive, the VTuber Agency. As such, the game had to use that IP as a base and then a theme that's specific to each jam. The theme was "Outcome". 
 
 ## Initial Design
 
