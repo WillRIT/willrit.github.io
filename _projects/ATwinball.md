@@ -5,9 +5,16 @@ image: ../images/TwinballTitle.png
 description: An action packed Anime inspired Boss Rush game where you play Pinball, In Development
 ---
 # Twinball
-(note! this project is still in progress along with this page!)
 
+{% capture carousel_images %}
+../images/carouselImages/TBCar1.png
+../images/carouselImages/TBCar2.png
+../images/carouselImages/TBCar3.png
+../images/carouselImages/TBCar4.png
+{% endcapture %}
+{% include elements/carousel.html %}
 ## Overview
+(note! this project is still in progress along with this page!)
 
 Currently in development, Twinball is the first game I've made solely for myself. This isn't for class or a game jam, I am developing the game out of my own passion. It is a single player Pinball Boss Rush game. I am developing the game under my game studio, Studio Collider.
 
@@ -72,10 +79,11 @@ Lead Character Artist, Liz Doherty, second passthrough of Characters after accep
 
 
 If you'd like to read more about Twinball and the more behind the scenes of it's development, check out these blog posts I wrote about it!
+- [Redesigning Twinball's UI in Magic Maker](../blog/redesigning-twinballs-ui) - This talks about my UI/UX Design 
 - [How My First Real Game Failed](../blog/how-my-first-real-game-failed) - This talks about Twinballs early development and how we pivoted to make it work
 - [The Level Design of Twinball](../blog/the-level-design-of-twinball) - This discusses the Level Design Philsophy of Twinball and how I adapted my notes on Flow and Level Design to fit the game
 - [The Narrative Design of Twinball](../blog/the-narrative-design-of-twinball) - This discusses the World, Characters, and the overall themes in Twinballs Narrative
-- [Understanding Flow in Level Design](../blog/creating-a-level-design-philsophy) - This is more of a rough understanding to Flow based on my Level Design Class Lectures
+
 
 
 

@@ -5,8 +5,7 @@ style: border
 color: success
 description: Talking about my tasks over the summer with Magic Maker 2025 and redesigning Twinball's User Interface.
 ---
-
-My other main job aside from being Project Lead was being the UI/UX Lead. My biggest goal over the course of the summer was making our UI easy to read and understandable by anyone playing our game. This is what we started the summer with:
+In the Summer of 2025, I worked as the Project Lead and UI/UX Lead for Twinball as part of RIT's Magic Maker Program. While my tasks as Project Lead were vast and My biggest goal over the course of the summer was making our UI easy to read and understandable by anyone playing our game. This is what we started the summer with:
 
 <img src="../images/uiImages/OldUI.png">
 Our big pain points were
