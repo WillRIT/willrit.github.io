@@ -79,7 +79,7 @@ Lead Character Artist, Liz Doherty, second passthrough of Characters after accep
 
 
 If you'd like to read more about Twinball and the more behind the scenes of it's development, check out these blog posts I wrote about it!
-- [Redesigning Twinball's UI in Magic Maker](../blog/redesigning-twinballs-ui) - This talks about my UI/UX Design 
+- [Redesigning Twinball's UI in Magic Maker](../blog/redesigning-twinballs-ui) - This talks about my UI/UX Design work over the summer with Magic Maker 2025
 - [How My First Real Game Failed](../blog/how-my-first-real-game-failed) - This talks about Twinballs early development and how we pivoted to make it work
 - [The Level Design of Twinball](../blog/the-level-design-of-twinball) - This discusses the Level Design Philsophy of Twinball and how I adapted my notes on Flow and Level Design to fit the game
 - [The Narrative Design of Twinball](../blog/the-narrative-design-of-twinball) - This discusses the World, Characters, and the overall themes in Twinballs Narrative
