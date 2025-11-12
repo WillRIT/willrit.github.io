@@ -38,16 +38,22 @@ After our first playtest, we got a lot of feedback. A main issue was still that 
 
 
 <img src="../images/uiImages/twinball-drawover.png">
-Working with Carrie Stone, another artist on the team, we decided to go for more of a Diagetic UI, making it seem as though the UI were objects the twins themselves scrapped together to make something 
-
+Working with Carrie Stone, another artist on the team, we decided to go for more of a Diagetic UI, making it seem as though the UI were objects the twins themselves scrapped together to make something that would help them in battle.
 
 
 After that session, this is what we ended up with! Still keeping the High Contrast of the UI, but making components more clear and distinct from each other.
 
+<img src="../images/uiImages/FinalUI.png">
+
 ### The Style Meter
 
+<img src="../images/uiImages/styleMeter.png">
+Instead of shoving the Style Meter in the corner, it's now on the right side of the screen, showing your current grade, score, and multiplier. We also added on the Special Ability Indicator below it, showing when your special ability is ready to use. Since it's all apart of one component, it helps readability.
+
+
 ### Next Ball
-Player
+<img src="../images/uiImages/nextBall.png">
+In Twinball, you select 3 balls to bring into battle. Players were having issues with knowing what ball was next and even forgetting entirely what they had picked. We added this component to show the next ball in line. 
 
 
 ### Breakpoint And Phases
@@ -55,6 +61,7 @@ The breakpoint is now a flashing meter combined with a traffic light design to i
 
 The Breakpoint flashes differently colored warning symbols depending on how close they are to using their breakpoint, during the breakpoint, the symbol switches to a Red Skull indicating danger.
 
+<img src="../images/uiImages/breakpointFinal.gif" width="300">
 
 ### Characters
 The characters are now placed inside CRT-TVs, giving the vibe of us watching them in combat like it's CCTV footage. This also gives us a chance to add some personality to the characters, showing their reactions to the fight as it goes on, which will be implemented later.
