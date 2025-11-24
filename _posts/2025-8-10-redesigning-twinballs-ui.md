@@ -18,7 +18,7 @@ while some of these could be solved with a proper tutorial, a redesign of the UI
 
 ## First Pass
 
-<img src="../images/uiImages/firstpassUI.png">
+<img src="../images/uiImages/firstPassUI.png">
 
 After a week or two of back and forth I had come up with this initial sketch. Ditching the colors for a much more striking Yellow and Black, with white as a highlight, taking inspiration from the Persona 5 UI for it's high contrast, readability, and stylishness.
 
