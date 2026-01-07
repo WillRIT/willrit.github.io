@@ -1,7 +1,7 @@
 ---
 name: Unreal Engine FPS Level
 tools: [Unreal, Game Design, Level Design, Greybox]
-image: ../images/unrealLevelTitle.png
+image: ../images/UnrealLevelTitle.png
 description: My Final Project for my Level Design Class, An FPS Level made in Unreal Engine
 ---
 # Unreal Engine FPS Level

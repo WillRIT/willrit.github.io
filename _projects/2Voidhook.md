@@ -22,9 +22,9 @@ Our development roles were pretty evenly split into two developers, two artists,
 
 We wanted Voidhook to take on a very industrial feel initially, and while we ended up ditching that aesthetic later on in the actual game, I still used a lot of Industrial/Rough looking patterns for the games title and UI.
 {% capture carousel_images %}
-../images/carouselImages/voidhook/Title.png
-../images/carouselImages/voidhook/VHGameover.png
-../images/carouselImages/voidhook/VoidhookUI.png
+../images/voidhook/Title.png
+../images/voidhook/VHGameover.png
+../images/voidhook/VoidhookUI.png
 {% endcapture %}
 {% include elements/carousel.html %}
 ## Overview
